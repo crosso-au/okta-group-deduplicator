@@ -1,4 +1,5 @@
 # Okta Group Duplicate Cleanup Script
+[![github](https://img.shields.io/badge/CrossboxLabs%20|%20crosso_au-8A2BE2)](https://github.com/crosso-au/) 
 
 A safe, two-phase PowerShell script to identify and clean up duplicate and near-duplicate Okta groups at scale.
 
